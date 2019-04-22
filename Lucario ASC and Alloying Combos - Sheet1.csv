@@ -1,4 +1,3 @@
-Self Damage,Enemy Damage,Enemy Weight,Enemy Fall Speed,Regular Fair,Regular Dair,Regular Bair,Regular Upair,Regular Nair,Alloying Fair,Alloying Dair,Alloying Bair,Alloying Upair,Alloying Nair
 0,0,68,0.98,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 0,30,68,0.98,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 0,60,68,0.98,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
